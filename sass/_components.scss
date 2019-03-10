@@ -241,3 +241,6 @@ h2 {
     transform: translateX(-20px);
   }
 }
+
+.red { color: var(--color-exp) !important; }
+.red-focus:focus { border: 1px solid var(--color-exp) !important; }
