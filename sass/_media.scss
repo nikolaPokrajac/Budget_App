@@ -1,0 +1,41 @@
+@media screen and (max-width: 900px) {
+  .container {
+    flex-direction: column;
+    margin: 0 auto;
+  }
+  .left-side {
+    flex: 1;
+  }
+
+  .right-side {
+    flex-direction: column;
+  }
+
+  .add {
+    &__description {
+      width: 100%;
+    }
+    &__container {
+      text-align: left;
+    }
+
+    &__value {
+      width: 80%;
+    }
+
+    &__type {
+      width: 19%;
+    }
+
+    &__btn {
+      width: 100%;
+    }
+  }
+
+  .income,
+  .expenses {
+    &__title {
+      margin-left: 1rem;
+    }
+  }
+}
