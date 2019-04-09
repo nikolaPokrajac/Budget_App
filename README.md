@@ -2,6 +2,8 @@
 
 Budget app created using vanilla JavaScript.
 
+Check out [Live Demo](https://nikolapokrajac.github.io/Budget_App/)
+
 ### Getting Started
 
 There are two methods for getting started with this repo.
